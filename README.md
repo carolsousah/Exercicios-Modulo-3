@@ -1,6 +1,7 @@
 # Exercicios-Modulo-3
 
 Exercícios do Módulo 3 - Fundamentos de Kotlin
+
 Curso EBAC: Desenvolvedor Android Kotlin
 
 ## Tecnologia utilizada:
